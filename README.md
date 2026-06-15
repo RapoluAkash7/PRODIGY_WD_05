@@ -28,10 +28,15 @@ A modern and responsive weather application built using HTML, CSS, and JavaScrip
 # Learning Outcomes
 
 1 API Integration
+
 2 Fetch API & Async/Await
+
 3 Geolocation API
+
 4 DOM Manipulation
+
 5 Responsive Web Design
+
 6 Modern UI Development
 
 # Author
